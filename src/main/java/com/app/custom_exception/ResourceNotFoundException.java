@@ -1,4 +1,4 @@
-package com.app.custom_excpetions;
+package com.app.custom_exception;
 
 @SuppressWarnings("serial")
 public class ResourceNotFoundException extends RuntimeException {
